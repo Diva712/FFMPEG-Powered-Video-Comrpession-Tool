@@ -3,21 +3,21 @@
 A fullstack application that enables efficient video compression using FFmpeg, built with React.js frontend and Node.js backend with AWS S3 storage integration.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [System Architecture](#system-architecture)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Technologies Used](#️-technologies-used)
+- [System Architecture](#️-system-architecture)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
   - [FFmpeg Installation](#ffmpeg-installation)
   - [AWS S3 Bucket Setup](#aws-s3-bucket-setup)
   - [Project Setup](#project-setup)
-- [Running the Application](#running-the-application)
-- [How It Works](#how-it-works)
-- [Performance](#performance)
-- [Limitations](#limitations)
-- [Future Enhancements](#future-enhancements)
-- [Contributors](#contributors)
+- [Running the Application](#-running-the-application)
+- [How It Works](#-how-it-works)
+- [Performance](#-performance)
+- [Limitations](#️-limitations)
+- [Future Enhancements](#-future-enhancements)
+- [Contributors](#-contributors)
 
 ## 📝 Overview
 
@@ -184,7 +184,6 @@ Based on testing results, the tool achieves impressive compression ratios:
 - AI-driven adaptive compression
 - Cloud deployment on AWS EC2
 - Real-time video compression for streaming applications
-
 
 
 ---
