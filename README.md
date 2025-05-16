@@ -1,4 +1,4 @@
-# 🎥 Video Compression Tool using FFmpeg
+# 🎥 FFmpeg-Powered Video Compression Tool 
 
 A fullstack application that enables efficient video compression using FFmpeg, built with React.js frontend and Node.js backend with AWS S3 storage integration.
 
